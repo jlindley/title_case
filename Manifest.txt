@@ -6,8 +6,8 @@ README.markdown
 Rakefile
 config/hoe.rb
 config/requirements.rb
-lib/title_case.rb
-lib/title_case/version.rb
+lib/titlecase.rb
+lib/titlecase/version.rb
 script/console
 script/destroy
 script/generate
@@ -15,12 +15,12 @@ script/txt2html
 setup.rb
 spec/spec.opts
 spec/spec_helper.rb
-spec/title_case_spec.rb
+spec/titlecase_spec.rb
 tasks/deployment.rake
 tasks/environment.rake
 tasks/rspec.rake
 tasks/website.rake
-title_case.gemspec
+titlecase.gemspec
 website/index.html
 website/index.txt
 website/javascripts/rounded_corners_lite.inc.js

@@ -26,7 +26,7 @@ class TitleCase
   end
 
   def to_s
-    @title_case_string
+    @titlecase_string
   end
   
   def original
@@ -48,7 +48,7 @@ class TitleCase
   private
   
     def convert
-      @title_case_string = ""
+      @titlecase_string = ""
       @raw_string.each_line do |line|
         line.split(/( [:.;?!][ ] | (?:[ ]|^)["“] )/ux).each do |sub_phrase|
           
@@ -65,7 +65,7 @@ class TitleCase
           sub_phrase.gsub!(/\b(#{TitleCase.small_words_re})[[:punct:]]*\Z/u){|small| small.capitalize }
 
           sub_phrase = special_cases(sub_phrase)
-          @title_case_string << sub_phrase
+          @titlecase_string << sub_phrase
         end
       end      
     end

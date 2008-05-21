@@ -1,3 +1,0 @@
-
-For more information on title_case, see http://github.com/jlindley/title_case
-

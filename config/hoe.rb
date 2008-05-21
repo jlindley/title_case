@@ -1,11 +1,11 @@
-require 'title_case/version'
+require 'titlecase/version'
 
 AUTHOR = 'Jim Lindley'  # can also be an array of Authors
 EMAIL = "jim@jimlindley.com"
 DESCRIPTION = "Title Case for Strings"
-GEM_NAME = 'title_case' # what ppl will type to install your gem
+GEM_NAME = 'titlecase' # what ppl will type to install your gem
 
-RUBYFORGE_PROJECT = 'title_case'
+RUBYFORGE_PROJECT = 'titlecase'
 HOMEPATH = "http://#{RUBYFORGE_PROJECT}.rubyforge.org"
 DOWNLOAD_PATH = "http://rubyforge.org/projects/#{RUBYFORGE_PROJECT}"
 

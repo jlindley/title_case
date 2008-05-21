@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
-GEM_NAME = 'title_case' # what ppl will type to install your gem
-RUBYFORGE_PROJECT = 'title_case'
+GEM_NAME = 'titlecase' # what ppl will type to install your gem
+RUBYFORGE_PROJECT = 'titlecase'
 
 require 'rubygems'
 begin
