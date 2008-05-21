@@ -1,4 +1,4 @@
-title_case
+TITLE CASE
 ===
 
 A port of John Gruber's title casing script to Ruby.
@@ -22,6 +22,17 @@ INSTALL:
 ---
 
 Download the tarball for now, will be mirrored to ruby forge shortly.
+
+
+USAGE
+---
+
+Either create a new instance of TitleClass with the string as an argument, or use the monkeypatched #titlecase method on string objects.
+
+    require 'rubygems'
+    require 'title_case'
+    TitleCase.new("my little string").to_s #=> "My Little String"
+    "a boat, a duck: a bit too much".titlecase #=> "A Boat, a Duck: A Bit Too Much"
 
 LICENSE:
 ---
