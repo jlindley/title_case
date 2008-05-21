@@ -1,0 +1,3 @@
+
+For more information on rtitlecase, see http://github.com/jlindley/title_case
+
