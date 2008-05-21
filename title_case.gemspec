@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = "title_case"
+  s.name = "titlecase"
   s.version = "0.0.1"
   s.date = "2008-05-21"
   s.summary = "Title case string munging for Ruby."
