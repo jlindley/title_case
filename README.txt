@@ -19,7 +19,7 @@ http://daringfireball.net/
 
 == INSTALL:
 
-sudo gem install jlindley-rtitlecase --source=http://gems.github.com
+Download the tarball for now, will be mirrored to ruby forge shortly.
 
 == LICENSE:
 
