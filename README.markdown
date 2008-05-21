@@ -4,7 +4,7 @@ TITLE CASE
 A port of John Gruber's title casing script to Ruby.
 2008-05-21 Jim Lindley http://jimlindley.com
 
-http://github.com/jlindley/rtitlecase
+http://github.com/jlindley/title_case
 
 Original Perl Source: http://daringfireball.net/projects/titlecase/TitleCase.pl
 

@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.has_rdoc = true
   s.homepage = %q{http://title_case.rubyforge.org}
   s.post_install_message = %q{
-For more information on rtitlecase, see http://github.com/jlindley/title_case
+For more information on title_case, see http://github.com/jlindley/title_case
 
 }
   s.rdoc_options = ["--main", "README.txt"]

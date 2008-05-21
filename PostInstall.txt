@@ -1,3 +1,3 @@
 
-For more information on rtitlecase, see http://github.com/jlindley/title_case
+For more information on title_case, see http://github.com/jlindley/title_case
 
