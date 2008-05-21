@@ -1,4 +1,5 @@
-= title_case
+title_case
+===
 
 A port of John Gruber's title casing script to Ruby.
 2008-05-21 Jim Lindley http://jimlindley.com
@@ -17,11 +18,13 @@ John Gruber
 http://daringfireball.net/
 10 May 2008
 
-== INSTALL:
+INSTALL:
+---
 
 Download the tarball for now, will be mirrored to ruby forge shortly.
 
-== LICENSE:
+LICENSE:
+---
 
 (The MIT License)
 
